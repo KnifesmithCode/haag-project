@@ -70,7 +70,7 @@ let data = {
                 "One of the most poignant arguments against slavery that Harriet Beecher Stowe makes in the novel is the importance of family. The splitting of families is constantly emphasized, with Eliza and George Harris being an obvious example, but also many other characters like mammy, Emmeline, Cassy, etc. are affected. Cassy is seen to be sardonic because of her separation from her children and sister, and becomes a different person entirely when she becomes reunited with her sister, Eliza, showing the effect that family can have.",
                 "In addition to being a point of argument, family is also used heavily in conjunction with christian memory to reinforce antislavery sentiments within the novel. Christian ideals of family are brought up through examples in scripture, contrasting with the actual conditions of slaves."
             ],
-            "image": "images/family.png"
+            "image": "Images/family.png"
         },
         {
             "title": "Love",
@@ -78,14 +78,14 @@ let data = {
                 "The unconditional love of Eva St. Clare shapes many throughout the novel, and comes as one of the novel's greatest thematic beats. Eva does not see race as a factor in who she loves; to Eva, everyone is deserving, which greatly touches many characters while sending a strong message to the reader, beyond antislavery sentiments. The book shows how love towards another human, especially when he or she has not experienced a great deal of admiration, can change their personality and attitude greatly, as a teaching tool (in the case of topsy) or as a method for reform (in the case of Tom Loker).",
                 "For clarification, it is also not just Eva who exhibits unconditional love in the novel; most morally correct characters show varying degrees of love towards others that have profound effects, like Uncle Tom towards Sambo and Quimbo, or Uncle Tom towards Eva when he rescues her from the river. The power of love and affection towards others to combat evil is ever present throughout the novel."
             ],
-            "image": "images/love.png"
+            "image": "Images/love.png"
         },
         {
             "title": "Christianity vs. Slavery",
             "paragraphs": [
                 "The novel is obviously heavily inspired by christian themes and christian morals; a heavy point of the book is the incompability between christian morals and slavery. This is done as a literary device, but also as a way to convince the reader of the evils of slavery; Stowe understood that the majority of her audience would be religious, and thus catered to them when writing the novel by including explicit references to Christianity and scripture. Two of the most important characters in the novel--Uncle Tom and Ava--both are heavily christian; Uncle Tom even draws greatly from the story of Jesus Christ."
             ],
-            "image": "images/christianity.png"
+            "image": "Images/christianity.png"
         }
         ]
     },
