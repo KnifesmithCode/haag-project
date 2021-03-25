@@ -70,7 +70,7 @@ function loadPage(prevPage, nextPage, transition = false) {
     if (nextPage >= 0 && data.sections[section].pages.length > nextPage && (transition === false || prevPage != nextPage)) {
         page = nextPage;
         if (!transition) $$('.content-border').forEach(e => e.innerHTML = '');
-        $('.pageinate-input').value = page + 1;
+        $('.pageinate-input').value = `${page + 1}/${data.sections[section].pages.length}`;;
         currentPage = data.sections[section].pages[page];
         let rightBox = document.createElement('div');
         let title = document.createElement('h2');
