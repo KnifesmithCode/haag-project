@@ -353,12 +353,12 @@ h3 {
 }
 
 .content-next {
-    transform: translateY(150%) scale(0.95) !important;
+    transform: translateY(100%) !important;
     opacity: 0 !important;
 }
 
 .content-previous {
-    transform: translateY(-150%) scale(0.95) !important;
+    transform: translateY(-100%) !important;
     opacity: 0 !important;
 }
 
