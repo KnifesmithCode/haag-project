@@ -49,11 +49,11 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     $('.pageinate-input').addEventListener('focusout', function () {
-        this.value = page + 1;
+        this.value = `${page + 1}/${data.sections[section].pages.length}`;
     });
 
     $('.pageinate-input').addEventListener('change', function () {
-        this.value = loadPage(page, this.value - 1, true) + 1;
+        this.value = `${loadPage(page, this.value - 1, true) + 1}/${data.sections[section].pages.length}`;
         this.blur();
     });
 
