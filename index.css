@@ -1,3 +1,15 @@
+@font-face {
+    font-family: 'Cervo Neue Neue Light';
+    font-weight: lighter;
+    src: url('fonts/CervoNeueLightNeue.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Klinic Slab';
+    font-weight: bold;
+    src: url('fonts/KlinicSlabBold.otf') format('opentype');
+}
+
 html,
 body {
     height: 100%;
